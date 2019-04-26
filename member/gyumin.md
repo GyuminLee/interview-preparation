@@ -15,3 +15,13 @@
 
 ## 영문 이력서 주소
 > https://docs.google.com/document/d/1if9XoYD4xi8SzU2jEApT0fuqpOMEsTS_T3l2aAzoqlI/edit?usp=sharing
+
+## 지원 하고 싶은 곳
+> 1. Trivago
+> 2. Spotify
+> 3. Facebook
+> 4. N26
+> 5. Elastic
+> 6. Amazon
+> 7. Celonis
+> 8. Zurich
